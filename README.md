@@ -1,5 +1,7 @@
+
 # 🌾 Rice Image Classification
-![Alt text]([rice.jpg](https://github.com/jeevitharamsudha16/Rice-Variety-Classification-using-CNN/blob/main/rice.jpg))
+![Alt text](https://github.com/jeevitharamsudha16/Rice-Variety-Classification-using-CNN/blob/main/rice.jpg?raw=true)
+
 
 
 This project classifies different varieties of rice grains using deep learning. The model is trained on a rice grain image dataset with the goal of building a robust classifier to identify rice types accurately.
