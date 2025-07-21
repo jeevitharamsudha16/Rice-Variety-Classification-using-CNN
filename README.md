@@ -1,11 +1,12 @@
 # 🌾 Rice Image Classification
-![Alt text]([path_or_url_to_image](https://github.com/jeevitharamsudha16/Rice-Variety-Classification-using-CNN/blob/main/rice.jpg))
+![Alt text]([rice.jpg](https://github.com/jeevitharamsudha16/Rice-Variety-Classification-using-CNN/blob/main/rice.jpg))
+
 
 This project classifies different varieties of rice grains using deep learning. The model is trained on a rice grain image dataset with the goal of building a robust classifier to identify rice types accurately.
 
 ## 📁 Dataset
 
-We used the [Rice Leaf Disease Dataset](https://data.mendeley.com/datasets/c8f86s4cwn/2) *(or mention your dataset source)*. It includes labeled images of the following rice types:
+We used the [Rice Leaf Disease Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset) *(or mention your dataset source)*. It includes labeled images of the following rice types:
 
 - **Jasmine**
 - **Karacadag**
